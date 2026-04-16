@@ -48,3 +48,20 @@ Live Demo: [https://OJCodeCanvas.github.io/portfolio](https://OJCodeCanvas.githu
 ---
 
 ## 📁 Project Structure
+/
+
+├── index.html          # Complete single-file portfolio
+├── README.md           # This file
+└── (GitHub Pages ready)
+
+
+The entire site is contained in **one HTML file** with embedded CSS and JavaScript — perfect for fast loading and easy deployment.
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/OJCodeCanvas/portfolio.git
+   cd portfolio
