@@ -4,7 +4,7 @@
 
 A modern, elegant, and highly interactive single-page portfolio website built to showcase my journey as a self-taught Software Engineer.
 
-Live Demo: [https://OJCodeCanvas.github.io/portfolio](https://OJCodeCanvas.github.io/portfolio)
+Live Demo: [https://OJCodeCanvas.github.io/portfolio](https://ojcodecanvas.netlify.app/)
 
 ---
 
