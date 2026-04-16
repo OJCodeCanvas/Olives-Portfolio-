@@ -1490,12 +1490,10 @@
       submitBtn.disabled = true;
 
       emailjs.send('service_hr0gcvm', 'template_czu21sp', {
-     name: document.getElementById('name').value,
-     email: document.getElementById('email').value,
-     subject: document.getElementById('subject').value || 'No subject',
-     message: document.getElementById('message').value,
-     time: new Date().toLocaleString()
-    }) 
+        from_name: document.getElementById('name').value,
+        from_email: document.getElementById('email').value,
+        message: document.getElementById('message').value
+      })
       .then(() => {
         showToast('Message sent successfully!', 'success');
         contactForm.reset();
